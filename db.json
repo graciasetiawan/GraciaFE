@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "role": "Frontend Developer",
+    "name": "Gracia Setiawan",
+    "bio": "Creative and passionate about building modern UI."
+  },
+
+  "about": {
+    "background": "/images/about-bg.jpg",
+    "title": "About Me",
+    "description": "I am a frontend developer who loves crafting clean and beautiful web interfaces."
+  },
+
+  "contact": {
+    "email": "s22210475@stuednt.unklab.ac.id",
+    "instagram": "@gracia.nthh",
+    "location": "Indonesia"
+  },
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "desc": "A modern personal portfolio built with React.",
+      "image": "/images/project1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Landing Page",
+      "desc": "A clean landing page design for a startup product.",
+      "image": "/images/project2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "UI Components",
+      "desc": "A collection of reusable UI components made with TailwindCSS.",
+      "image": "/images/project3.jpg"
+    }
+  ]
+}
